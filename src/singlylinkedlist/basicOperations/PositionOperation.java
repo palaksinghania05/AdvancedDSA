@@ -74,6 +74,7 @@ public class PositionOperation {
         sll.insert(5,7);
         sll.display();
         sll.delete(1);
+        sll.display();
         sll.delete(3);
         sll.delete(3);
         sll.display();
